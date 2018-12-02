@@ -1,0 +1,12 @@
+C:\Users\Piyush\Desktop\OSDPRO\th-pa-au\1\QKDP\Coding\qunatumkey\qunatumkey\bin\Debug\qunatumkey.exe
+C:\Users\Piyush\Desktop\OSDPRO\th-pa-au\1\QKDP\Coding\qunatumkey\qunatumkey\bin\Debug\qunatumkey.pdb
+C:\Users\Piyush\Desktop\OSDPRO\th-pa-au\1\QKDP\Coding\qunatumkey\qunatumkey\obj\Debug\qunatumkey.SendData.resources
+C:\Users\Piyush\Desktop\OSDPRO\th-pa-au\1\QKDP\Coding\qunatumkey\qunatumkey\obj\Debug\qunatumkey.Login.resources
+C:\Users\Piyush\Desktop\OSDPRO\th-pa-au\1\QKDP\Coding\qunatumkey\qunatumkey\obj\Debug\qunatumkey.Main.resources
+C:\Users\Piyush\Desktop\OSDPRO\th-pa-au\1\QKDP\Coding\qunatumkey\qunatumkey\obj\Debug\qunatumkey.Properties.Resources.resources
+C:\Users\Piyush\Desktop\OSDPRO\th-pa-au\1\QKDP\Coding\qunatumkey\qunatumkey\obj\Debug\qunatumkey.Register.resources
+C:\Users\Piyush\Desktop\OSDPRO\th-pa-au\1\QKDP\Coding\qunatumkey\qunatumkey\obj\Debug\qunatumkey.csproj.GenerateResource.Cache
+C:\Users\Piyush\Desktop\OSDPRO\th-pa-au\1\QKDP\Coding\qunatumkey\qunatumkey\obj\Debug\qunatumkey.csproj.CoreCompileInputs.cache
+C:\Users\Piyush\Desktop\OSDPRO\th-pa-au\1\QKDP\Coding\qunatumkey\qunatumkey\obj\Debug\qunatumkey.exe
+C:\Users\Piyush\Desktop\OSDPRO\th-pa-au\1\QKDP\Coding\qunatumkey\qunatumkey\obj\Debug\qunatumkey.pdb
+C:\Users\Piyush\Desktop\OSDPRO\th-pa-au\1\QKDP\Coding\qunatumkey\qunatumkey\obj\Debug\qunatumkey.csprojResolveAssemblyReference.cache
